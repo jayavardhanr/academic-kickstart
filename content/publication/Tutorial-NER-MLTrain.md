@@ -16,7 +16,7 @@ authors = ["Jayavardhan Reddy Peddamail", "Anirudh Ganesh"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Enabling Reproducilibity in Machine Learning MLTRAIN@RML (ICML 2018)*"
@@ -41,7 +41,7 @@ projects = []
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -52,7 +52,8 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [{name = "Github Repository", url = "https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial"},
-{name = "Workshop", url = "https://mltrain.cc/events/enabling-reproducibility-in-machine-learning-mltrainrml-icml-2018/"}]
+{name = "Workshop", url = "https://mltrain.cc/events/enabling-reproducibility-in-machine-learning-mltrainrml-icml-2018/"},
+{name = "Tutorial", url = "https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial/blob/master/Named_Entity_Recognition-LSTM-CNN-CRF-Tutorial.ipynb"]
 
 # Does the content use math formatting?
 math = true
@@ -63,7 +64,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "files/Bi-directional-LSTM-CNNs-CRF.png.jpg"
+image = "files/Bi-directional-LSTM-CNNs-CRF.png"
 caption = "Bi-directional-LSTM-CNNs-CRF 😄"
 
 +++
