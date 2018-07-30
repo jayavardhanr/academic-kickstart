@@ -16,18 +16,18 @@ authors = ["Jayavardhan Reddy Peddamail", "Anirudh Ganesh"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+# publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Enabling Reproducilibity in Machine Learning MLTRAIN@RML (ICML 2018)*"
-publication_short = "In * ICML (MLTRAIN) *"
+publication = "In Enabling Reproducilibity in Machine Learning MLTRAIN@RML (ICML 2018)"
+publication_short = "In ICML (MLTRAIN)"
 
 # Abstract and optional shortened version.
 abstract = "In this tutorial we will demonstrate how to implement a state of the art  Bi-directional LSTM-CNN-CRF architecture (Published at ACL'16. [Link To Paper](http://www.aclweb.org/anthology/P16-1101)) for Named Entity Recognition using Pytorch. The main aim of the tutorial is to make the audience comfortable with pytorch using this tutorial and give a step-by-step walk through of the Bi-LSTM-CNN-CRF architecture for NER. Some familiarity with pytorch (or any other deep learning framework) would definitely be a plus. "
 abstract_short = "Pytorch tutorial for Bi-directional LSTM-CNN-CRF Named Entity Recognizer"
 
 # Featured image thumbnail (optional)
-image_preview = "files/Bi-directional-LSTM-CNNs-CRF.jpg"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -63,8 +63,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "files/Bi-directional-LSTM-CNNs-CRF.jpg"
-caption = "Bi-directional-LSTM-CNNs-CRF"
+# [header]
+# image = "files/Bi-directional-LSTM-CNNs-CRF.jpg"
+# caption = "Bi-directional-LSTM-CNNs-CRF"
 
 +++
