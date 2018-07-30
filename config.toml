@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "Ohio State University", url = "https://cse.osu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Jayavardhan_Headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "files/Jayavardhan_Headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "peddamail.1@osu.edu"
   address = "Dreese Labs, Columbus, Ohio"
   phone = "614 687 8028"
@@ -248,7 +248,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "files/resume.pdf"
+    link = "img/files/resume.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -292,7 +292,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "Resume"
-  url = "files/resume.pdf"
+  url = "img/files/resume.pdf"
   weight = 7
 
 # Taxonomies.
