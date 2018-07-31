@@ -20,7 +20,7 @@ authors = ["Jayavardhan Reddy Peddamail", "Ziyu Yao", "Zhen Wang", "Huan Sun"]
 
 # Publication name and optional abbreviated version.
 publication = "In Deep Learning Day, KDD 2018"
-publication_short = "Deep Learning Day, KDD"
+publication_short = "In Deep Learning Day, KDD"
 
 # Abstract and optional shortened version.
 abstract = "Learning the mapping between natural language (NL) and programming language, such as retrieving or generating code snippets based on NL queries and annotating code snippets using NL, has been explored by lots of research works. At the core of these works are machine learning and deep learning models, which usually demand for large datasets of <NL, code> pairs for training. This paper describes an experimental study of StaQC, a large-scale and high-quality dataset of <NL, code> pairs in Python and SQL domain, systematically mined from the Stack Overflow forum (SO). We compare StaQC with two other popular datasets mined from SO on the code summarization task, showing that StaQC helps achieve substantially better results, improving the current state-of-the-art model by an order of 8% ∼ 9% in BLEU metric. "
