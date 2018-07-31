@@ -1,11 +1,11 @@
 +++
-title = "A Comprehensive Study of StaQC for Deep Code Summarization"
+title = "Tutorial : Reproducible Implementation of End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF"
 
 # Date first published.
-date = "2018-08-01"
+date = "2018-07-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jayavardhan Reddy Peddamail", "Ziyu Yao", "Zhen Wang", "Huan Sun"]
+authors = ["Jayavardhan Reddy Peddamail", "Anirudh Ganesh"]
 
 # Publication type.
 # Legend:
@@ -16,15 +16,15 @@ authors = ["Jayavardhan Reddy Peddamail", "Ziyu Yao", "Zhen Wang", "Huan Sun"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+# publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Deep Learning Day, KDD 2018"
-publication_short = "Deep Learning Day, KDD"
+publication = "In Enabling Reproducilibity in Machine Learning MLTRAIN@RML (ICML 2018)"
+publication_short = "In ICML (MLTRAIN)"
 
 # Abstract and optional shortened version.
-abstract = "Learning the mapping between natural language (NL) and programming language, such as retrieving or generating code snippets based on NL queries and annotating code snippets using NL, has been explored by lots of research works. At the core of these works are machine learning and deep learning models, which usually demand for large datasets of <NL, code> pairs for training. This paper describes an experimental study of StaQC, a large-scale and high-quality dataset of <NL, code> pairs in Python and SQL domain, systematically mined from the Stack Overflow forum (SO). We compare StaQC with two other popular datasets mined from SO on the code summarization task, showing that StaQC helps achieve substantially better results, improving the current state-of-the-art model by an order of 8% ∼ 9% in BLEU metric. "
-abstract_short = "Experimental Study of StaQC vs other <NL, Code> datasets on Code Summarization"
+abstract = "In this tutorial we will demonstrate how to implement a state of the art  Bi-directional LSTM-CNN-CRF architecture (Published at ACL'16. [Link To Paper](http://www.aclweb.org/anthology/P16-1101)) for Named Entity Recognition using Pytorch. The main aim of the tutorial is to make the audience comfortable with pytorch using this tutorial and give a step-by-step walk through of the Bi-LSTM-CNN-CRF architecture for NER. Some familiarity with pytorch (or any other deep learning framework) would definitely be a plus. "
+abstract_short = "Pytorch tutorial for Bi-directional LSTM-CNN-CRF Named Entity Recognizer"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -51,7 +51,9 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Conference", url = "http://www.kdd.org/kdd2018/deep-learning-day"}]
+url_custom = [{name = "Github Repository", url = "https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial"},
+{name = "Workshop", url = "https://mltrain.cc/events/enabling-reproducibility-in-machine-learning-mltrainrml-icml-2018/"},
+{name = "Tutorial", url = "https://github.com/jayavardhanr/End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial/blob/master/Named_Entity_Recognition-LSTM-CNN-CRF-Tutorial.ipynb"}]
 
 # Does the content use math formatting?
 math = true
