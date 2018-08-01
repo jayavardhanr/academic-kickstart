@@ -1,31 +1,30 @@
 +++
-title = "Fake News Challenge: Stance Detection for combating Fake News"
-date = "2018-01-08"
+title = "Detection of Quora Question duplicates"
+date = 2017-11-12
 
-summary = "Detecting the stance of the body of an article with respect to its title. Our team (OSUfnc) ranked **7th** of the **50 teams** that participated"
-
+summary = "Machine Learning Project to identify question pairs that have the same intent?"
 
 # Links (optional).
-url_pdf = "/img/files/Quora_Pairs_Final_Report.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = "https://github.com/FakeNewsChallenge/fnc-1"
-url_project = "http://www.fakenewschallenge.org/"
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+url_pdf = "https://www.slideshare.net/JayavardhanReddyPedd/duplicatequoraquestiondetection"
+url_code = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"
+url_dataset = "https://www.kaggle.com/c/quora-question-pairs"
+url_project = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"
+url_slides = "https://www.slideshare.net/JayavardhanReddyPedd/duplicatequoraquestiondetection"
 
-
+ url_custom = [{name = "Github", url = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"},
+{name = "Report", url = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"}]
 
 # Does the content use math formatting?
-math = true
+ math = true
 
 # Does the content use source code highlighting?
-highlight = true
+ highlight = true
 
 +++
 
-The Fake News Challenge aims at combating the problem of fake news using AI/Machine Learning. As a first step towards that goal, it focuses on the problem of Stance Detection, wherein we aim to automcatically assess the stance of the body of a news article with respect to it's title. The rationale behind this is that if multiple credible news sources show a positive stance towards the same (or similar) titles, then the news is likely to be genuine. On the other hand, if sources with less credibility show a positive stance, the credibility of the news is deemed to be low as well.
+Finding an answer to any question is becoming easier by the day but finding the “best” answer is getting increasingly difficult. Our project focuses on identifying questions with similar intent in question answering sites, specifically, the site Quora. 
 
-We use traditional feature engineering techniques for extracting a variety of relevant signals from the text. Our team (OSUfnc) ranked **7th** of the **50 teams** that participated
+Given a dataset consisting of question pairs, we try to classify the given pairs as duplicate or not duplicate. 
+
+Identifying duplicate questions is not an easy task since questions that have no words in common could still have the same intent and questions with almost the same words might have different intent. We tried to tackle this problem through elegant feature engineering using one-hot features, questions length information, Word Embedding both Glove as well as Word2Vec embeddings. We implemented both simpler Machine Learning models like Random Forest, SVM, Logistic regression and also complex Neural Network models like CNN, LSTM, Bidirectional LSTM Networks using the Siamese architecture. The performance of models has been compared and a detailed analysis was performed about the different features and parameter tuning for the different models implemented.
+
