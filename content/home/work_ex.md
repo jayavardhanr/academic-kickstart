@@ -15,7 +15,11 @@ weight = 18
 
 +++
 
-- **Deep Learning Intern**, The Climate Corporation (Summer 2018) 
+- **Graduate Research Assitant**, Nationwide Center for Advanced Customer Insights (Fall 2018 - Present) 
+
+- **Graduate Student Reasearcher**, advised by [Dr.Huan Sun] (http://web.cse.ohio-state.edu/~sun.397/) (Spring 2018 - Present)
+
+- **Deep Learning Intern**, The Climate Corporation (May 2018 - July 2018) 
 
      As part of the Sead and Placement team at [The Climate Corporation](https://www.climate.com/), I worked on the development of a weather-modelling approach for seeding rate prediction.
 	   - Developed deep unsupervised architecture to generate features from multi-variate time-series weather information.
