@@ -13,13 +13,13 @@ url_dataset = "https://www.kaggle.com/c/quora-question-pairs"
 url_project = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"
 url_slides = "https://www.slideshare.net/JayavardhanReddyPedd/duplicatequoraquestiondetection"
 
-# url_custom = []
+ url_custom = []
 
 # Does the content use math formatting?
-# math = true
+ math = true
 
 # Does the content use source code highlighting?
-# highlight = true
+ highlight = true
 
 +++
 
