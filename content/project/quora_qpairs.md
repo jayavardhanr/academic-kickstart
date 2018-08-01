@@ -1,5 +1,7 @@
 +++
 title = "Detection of Quora Question duplicates"
+
++++
 time_start = 2017-11-12  
 
 abstract = "Machine Learning Project to solve the problem of duplicate questions on crowd source Q&A website - Quora"
@@ -24,4 +26,3 @@ highlight = true
 url_custom = [{name = "Github", url = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"},
 {name = "Report", url = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"}]
 
-+++
