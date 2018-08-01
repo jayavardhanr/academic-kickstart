@@ -7,8 +7,8 @@ date = 2017-11-12
  # tags = ["machine-learning", "natural-language-processing", "deep-learning"]
 
 # Links (optional).
-url_pdf = ""
-url_code = ""
+url_pdf = "https://www.slideshare.net/JayavardhanReddyPedd/duplicatequoraquestiondetection"
+url_code = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"
 url_dataset = "https://www.kaggle.com/c/quora-question-pairs"
 url_project = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"
 url_slides = "https://www.slideshare.net/JayavardhanReddyPedd/duplicatequoraquestiondetection"
