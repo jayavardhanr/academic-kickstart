@@ -1,15 +1,11 @@
 +++
-date = 2018-03-12T14:00:00  
-# Schedule page publish date.
-
 title = "Dual Learning for Machine Translation"
 time_start = 2016-03-12T14:00:00  
-#time_end = 2030-06-01T15:00:00
+
 abstract = ""
 abstract_short = ""
 event = "CSE5249: Human-Machine Collaborative Problem Solving in Data Mining, Database, and AI"
 event_url = "http://web.cse.ohio-state.edu/~sun.397/docs/Autumn_2016_QA.pdf"
-#location = "London, United Kingdom"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -21,7 +17,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "/files/Paper_Presentation_Dual.pdf"
 url_video = ""
 url_code = ""
 
@@ -34,7 +30,7 @@ highlight = true
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Workshop", url = "http://www.kdd.org/kdd2018/deep-learning-day/"}]
+url_custom = [{name = "Paper", url = "https://arxiv.org/pdf/1611.00179.pdf"}]
 
 +++
 
