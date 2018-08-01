@@ -4,8 +4,6 @@ date = "2018-01-08"
 
 summary = "Detecting the stance of the body of an article with respect to its title. Our team (OSUfnc) ranked **7th** of the **50 teams** that participated"
 
-tags = ["machine-learning", "natural-language-processing"]
-
 
 # Links (optional).
 url_pdf = "/img/files/Quora_Pairs_Final_Report.pdf"
