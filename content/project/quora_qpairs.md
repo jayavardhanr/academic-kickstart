@@ -1,29 +1,25 @@
 +++
 title = "Detection of Quora Question duplicates"
-date = "2017-11-12"
+date = 2017-11-12
 
-summary = "Machine Learning Project to identify question pairs that have the same intent?"
+# summary = "Machine Learning Project to identify question pairs that have the same intent?"
 
-tags = ["machine-learning", "natural-language-processing", "deep-learning"]
+# tags = ["machine-learning", "natural-language-processing", "deep-learning"]
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
 url_code = ""
 url_dataset = "https://www.kaggle.com/c/quora-question-pairs"
 url_project = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"
 url_slides = "https://www.slideshare.net/JayavardhanReddyPedd/duplicatequoraquestiondetection"
-url_video = ""
-url_poster = ""
-url_source = ""
 
 # url_custom = []
 
 # Does the content use math formatting?
-math = true
+# math = true
 
 # Does the content use source code highlighting?
-highlight = true
+# highlight = true
 
 +++
 
