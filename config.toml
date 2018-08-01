@@ -6,7 +6,9 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+#common github work please!!!!
 baseurl = "https://jayavardhanr.github.io/"
+
 
 # Title of your site
 title = "My Personal Website"
