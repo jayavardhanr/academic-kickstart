@@ -8,4 +8,6 @@ summary = "Advisor : Prof. Jihun Hamm | Spring 2018"
 
 Exploring deep learning techniques for future event prediction in discontinuous time-series.
 
+**[Github](https://github.com/jayavardhanr/TimeSeriesForeceasting)**
+
 
