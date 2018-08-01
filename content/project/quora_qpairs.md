@@ -14,7 +14,11 @@ Identifying duplicate questions is not an easy task since questions that have no
   * The performance of models has been compared and a detailed analysis was performed about the different features and parameter tuning for the different models implemented.
   * Performed comparitive analysis of different architectures. LSTM Models produced the best Log-loss of 0.25 on public test-set.
   
+ **[Github Repo](https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project)**
+ 
  **[Slides](https://www.slideshare.net/JayavardhanReddyPedd/duplicatequoraquestiondetection)**
+ 
+
 
 
 
