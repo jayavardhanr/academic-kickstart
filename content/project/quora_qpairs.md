@@ -10,7 +10,7 @@ tags = ["machine-learning", "natural-language-processing", "deep-learning"]
 
 
 # Links (optional).
-url_pdf = "/img/files/Quora_Pairs_Final_Report.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"
 url_dataset = ""
