@@ -1,5 +1,5 @@
 +++
-title = "Dual Learning for Machine Translation"
+title = "Task-Oriented Query Reformulation with Reinforcement Learning"
 time_start = 2018-02-12T14:00:00  
 
 abstract = ""
