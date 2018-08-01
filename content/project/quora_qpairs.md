@@ -13,7 +13,8 @@ url_dataset = "https://www.kaggle.com/c/quora-question-pairs"
 url_project = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"
 url_slides = "https://www.slideshare.net/JayavardhanReddyPedd/duplicatequoraquestiondetection"
 
- url_custom = []
+ url_custom = [{name = "Github", url = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"},
+{name = "Report", url = "https://github.com/jayavardhanr/Quora-Question-Answering-Pairs-Project"}]
 
 # Does the content use math formatting?
  math = true
