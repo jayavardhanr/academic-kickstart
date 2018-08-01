@@ -17,7 +17,11 @@ weight = 18
 
 - **Graduate Research Assitant**, Nationwide Center for Advanced Customer Insights (Fall 2018 - Present) 
 
-- **Graduate Student Reasearcher**, advised by [Dr.Huan Sun] (http://web.cse.ohio-state.edu/~sun.397/) (Spring 2018 - Present)
+    Solving critical problems in Insurance industry using Machine Learning
+
+- **Graduate Student Researcher**, advised by [Dr.Huan Sun] (http://web.cse.ohio-state.edu/~sun.397/) (Spring 2018 - Present)
+
+    Currently exploring strategies to use distant supervision techniques to boost the performance of Code Summarization models.
 
 - **Deep Learning Intern**, The Climate Corporation (May 2018 - July 2018) 
 
