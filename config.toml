@@ -266,16 +266,16 @@ enableGitInfo = false
 [[menu.main]]
   name = "Work Experience"
   url = "#work_ex"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Talks and Presentations"
-  url = "#talk"
+  url = "#talks"
   weight = 4
 
 [[menu.main]]
