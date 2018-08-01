@@ -2,9 +2,9 @@
 title = "Detection of Quora Question duplicates"
 date = 2017-11-12
 
-# summary = "Machine Learning Project to identify question pairs that have the same intent?"
+ summary = "Machine Learning Project to identify question pairs that have the same intent?"
 
-# tags = ["machine-learning", "natural-language-processing", "deep-learning"]
+ tags = ["machine-learning", "natural-language-processing", "deep-learning"]
 
 # Links (optional).
 url_pdf = ""
