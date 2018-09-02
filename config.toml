@@ -246,9 +246,9 @@ enableGitInfo = false
     link = "//github.com/jayavardhanr"
     
   [[params.social]]
-    icon = "googlescholar"
-    icon_pack = "fa"
-    link = "//scholar.google.com/citations?authuser=1&user=8ZG1ylUAAAAJ"
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "//scholar.google.com/citations?user=8ZG1ylUAAAAJ"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
