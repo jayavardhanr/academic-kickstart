@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Deep Learning",
+    "Reinforcement Learning",
     "Natural Language Processing",
     "Time Series Analysis"
   ]
