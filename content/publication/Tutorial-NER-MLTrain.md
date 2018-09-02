@@ -20,7 +20,7 @@ authors = ["Jayavardhan Reddy Peddamail", "Anirudh Ganesh"]
 
 # Publication name and optional abbreviated version.
 publication = "In Enabling Reproducilibity in Machine Learning MLTRAIN@RML (ICML 2018)"
-publication_short = "In ICML (MLTRAIN)"
+publication_short = "Presented at ICML (MLTRAIN)"
 
 # Abstract and optional shortened version.
 abstract = "In this tutorial we will demonstrate how to implement a state of the art  Bi-directional LSTM-CNN-CRF architecture (Published at ACL'16. [Link To Paper](http://www.aclweb.org/anthology/P16-1101)) for Named Entity Recognition using Pytorch. The main aim of the tutorial is to make the audience comfortable with pytorch using this tutorial and give a step-by-step walk through of the Bi-LSTM-CNN-CRF architecture for NER. Some familiarity with pytorch (or any other deep learning framework) would definitely be a plus. "
