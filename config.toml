@@ -230,10 +230,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:peddamail.1@osu.edu"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/jayavardhanr1"
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fa"
+  #  link = "//twitter.com/jayavardhanr1"
 
   [[params.social]]
     icon = "linkedin"
