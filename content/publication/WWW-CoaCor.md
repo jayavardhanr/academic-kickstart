@@ -5,7 +5,7 @@ title = "CoaCor: Code Annotation for Code Retrieval with Reinforcement Learning"
 date = "2019-01-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "Ziyu Yao",**"Jayavardhan Reddy Peddamail"**, "Huan Sun"]
+authors = [ "Ziyu Yao","Jayavardhan Reddy Peddamail", "Huan Sun"]
 
 # Publication type.
 # Legend:
