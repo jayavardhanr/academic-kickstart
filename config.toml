@@ -68,9 +68,9 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "files/Jayavardhan_Headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "peddamail.1@osu.edu"
+  email = ""
   address = "Dreese Labs, Columbus, Ohio"
-  phone = "614 687 8028"
+  phone = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
