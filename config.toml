@@ -69,7 +69,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "files/Jayavardhan_Headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = ""
-  address = "Dreese Labs, Columbus, Ohio"
+  address = "Bay Area"
   phone = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -228,7 +228,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:peddamail.1@osu.edu"
+    link = "mailto:jayavardhanr1@gmail.com"
 
   #[[params.social]]
   #  icon = "twitter"
@@ -252,10 +252,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  [[params.social]]
-    icon = "cv"
-    icon_pack = "ai"
-    link = "img/files/resume.pdf"
+  # [[params.social]]
+  #  icon = "cv"
+  #  icon_pack = "ai"
+  #  link = "img/files/resume.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
